@@ -12,7 +12,13 @@
   gap: 15px;
 }
 
-input{
+input, select, textarea{
   min-width: 30%;
   padding: 10px 15px;
+}
+
+.input-radio{
+  display: flex;
+  gap: 15px;
+  min-width: 30%;
 }
